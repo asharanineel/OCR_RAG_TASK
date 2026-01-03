@@ -1,0 +1,28 @@
+# --- OCR and Image Processing ---
+pytesseract
+Pillow
+opencv-python
+numpy
+easyocr
+
+# --- AI Frameworks (Required for Embeddings) ---
+torch
+torchvision
+torchaudio
+
+# --- RAG Orchestration (Chunking and Logic) ---
+langchain
+langchain-community
+langchain-text-splitters
+langchain-openai
+
+# --- Embeddings and Vector Database ---
+sentence-transformers
+transformers
+faiss-cpu
+
+fastapi 
+uvicorn
+
+
+# !pip install docling opencv-python-headless  -- done in google colab
